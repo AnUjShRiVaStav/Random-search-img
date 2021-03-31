@@ -1,0 +1,12 @@
+.random{
+    margin-top: 10%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-size: auto;
+
+}
+.input{
+    height: 30px;
+    width: 300px;
+    background-color: lightblue;
+    border: 3px solid #555;
+}
